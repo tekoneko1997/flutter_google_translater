@@ -1,7 +1,7 @@
 # flutter_google_translator
 
-ネットで見つけたものを参考に試しました。
-リンクはこちら↓
+ネットで見つけたものを参考に試しました。  
+リンクはこちら↓  
 https://blog.usejournal.com/flutter-google-translate-part-1-63b50c93d873
 
 ## Getting Started
